@@ -1,6 +1,6 @@
 // Package errors implements functions to demonstrate godoc features
 //
-// The main function
+// The task_3 function
 //
 package main
 
@@ -11,7 +11,7 @@ import (
 )
 
 func main() {
-	// function main for calculate result
+	// function task_3 for calculate result
 
 	var numOne, numTwo, result float32
 	var operation string
