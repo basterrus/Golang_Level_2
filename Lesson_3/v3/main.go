@@ -1,6 +1,8 @@
 package v3
 
-import "fmt"
+import (
+	"fmt"
+)
 
 func sum() {
 	fmt.Println("Hello v3")
